@@ -1,0 +1,10 @@
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.csproj.AssemblyReference.cache
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\bin\Debug\TI_1.exe.config
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\bin\Debug\TI_1.exe
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\bin\Debug\TI_1.pdb
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.Form1.resources
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.Properties.Resources.resources
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.csproj.GenerateResource.cache
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.csproj.CoreCompileInputs.cache
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.exe
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_1\TI_1\obj\Debug\TI_1.pdb
