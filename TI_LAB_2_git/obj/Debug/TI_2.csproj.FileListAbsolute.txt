@@ -1,0 +1,11 @@
+D:\Polina\BSUIR\BSUIR-labs-main\BSUIR-labs-main\2 course\4 semester\TI\TI_2\TI_2\obj\Debug\TI_2.csproj.AssemblyReference.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.csproj.AssemblyReference.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\bin\Debug\TI_2.exe.config
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\bin\Debug\TI_2.exe
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\bin\Debug\TI_2.pdb
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.MainForm.resources
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.Properties.Resources.resources
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.csproj.GenerateResource.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.csproj.CoreCompileInputs.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.exe
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 2\TI_2\obj\Debug\TI_2.pdb
