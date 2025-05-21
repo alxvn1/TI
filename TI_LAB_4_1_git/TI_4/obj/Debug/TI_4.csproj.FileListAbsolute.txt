@@ -1,0 +1,20 @@
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\bin\Debug\TI_4.exe.config
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\bin\Debug\TI_4.exe
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\bin\Debug\TI_4.pdb
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.MainForm.resources
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.exe
+D:\Polina\BSUIR\BSUIR-labs-mainНОВЛЕ\BSUIR-labs-main\2 course\4 semester\TI\TI_4_not_passed\TI_4\obj\Debug\TI_4.pdb
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\bin\Debug\TI_4.exe.config
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\bin\Debug\TI_4.exe
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\bin\Debug\TI_4.pdb
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.MainForm.resources
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.exe
+D:\Polina\BSUIR\4 СЕМ\ТИ\лаба ти 4\TI_4_not_passed\TI_4\obj\Debug\TI_4.pdb
